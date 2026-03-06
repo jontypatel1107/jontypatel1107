@@ -3,10 +3,6 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jonty%20Patel&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=a5b4fc&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=🚀+Building+Real+Projects+Every+Day;⚛️+React+%7C+Node.js+%7C+MongoDB;🔥+Turning+Ideas+Into+Code;🌱+Learning+%26+Growing+Constantly" alt="Typing SVG" />
-
-<br/>
 
 <!-- Badges Row -->
 <a href="https://github.com/jontypatel1107">
