@@ -1,152 +1,166 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jonty%20Patel&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=a5b4fc&animation=fadeIn" />
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffcc,100:ff00ff&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=00ffcc&fontAlignY=38&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlignY=58&descColor=ff00ff&animation=twinkling" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=🚀+Building+Real+Projects+Every+Day;⚛️+React+%7C+Node.js+%7C+MongoDB;🔥+Turning+Ideas+Into+Code;🌱+Learning+%26+Growing+Constantly" alt="Typing SVG" />
-
-<br/>
-
-<!-- Badges Row -->
-<a href="https://github.com/jontypatel1107">
-  <img src="https://img.shields.io/github/followers/jontypatel1107?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0f172a&logo=github" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=jontypatel1107&label=Profile+Views&color=a855f7&style=for-the-badge&labelColor=0f172a" />
-&nbsp;
-<a href="https://leetcode.com/u/jontypatel1107/">
-  <img src="https://img.shields.io/badge/LeetCode-jontypatel1107-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0f172a" />
-</a>
-
-</div>
+<!-- Glitch Name Effect via SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+World!+%F0%9F%8C%90;%3E+I+am+a+Full+Stack+Developer;%3E+I+craft+code+%26+ship+products;%3E+TypeScript+%7C+Rust+%7C+Go+%7C+C%2B%2B;%3E+Let%27s+build+something+epic!" alt="Typing SVG" />
 
 ---
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" />
-
-### 🙋‍♂️ About Me
-```javascript
-const jonty = {
-  education  : "Computer Engineering Student",
-  interests  : ["Web Dev", "Backend Dev", "DSA"],
-  currently  : ["React", "Node.js", "MongoDB"],
-  passionate : "Building Real-World Projects",
-  openTo     : ["Collaborations", "Internships"],
-  funFact    : "I debug with console.log 😄"
-};
-` ` `
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🚀 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" />
+<!-- Neon Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
+## `> SYSTEM_INFO.exe`
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jontypatel1107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=a855f7&text_color=c9d1d9" />
-<img width="48%" src="https://streak-stats.demolab.com?user=jontypatel1107&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=a855f7&currStreakLabel=38BDF8" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jontypatel1107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🔥 LeetCode Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/u/jontypatel1107/">
-  <img src="https://leetcard.jacoblin.cool/jontypatel1107?theme=dark&font=Baloo+2&ext=heatmap" width="65%" />
-</a>
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-| 🗂️ Repository | 📝 Description | ⭐ |
-|---|---|---|
-| [**Minor-Project**](https://github.com/jontypatel1107/Minor-Project) | 🔹 Academic minor project | [![Stars](https://img.shields.io/github/stars/jontypatel1107/Minor-Project?style=flat-square&color=38BDF8&labelColor=0f172a)](https://github.com/jontypatel1107/Minor-Project) |
-| [**full_stack_development_2025**](https://github.com/jontypatel1107/full_stack_development_2025) | 🔹 Full-stack dev journey | [![Stars](https://img.shields.io/github/stars/jontypatel1107/full_stack_development_2025?style=flat-square&color=38BDF8&labelColor=0f172a)](https://github.com/jontypatel1107/full_stack_development_2025) |
-| [**CGxSU_Semester_1**](https://github.com/jontypatel1107/CGxSU_Semester_1) | 🔹 Semester 1 coursework | [![Stars](https://img.shields.io/github/stars/jontypatel1107/CGxSU_Semester_1?style=flat-square&color=38BDF8&labelColor=0f172a)](https://github.com/jontypatel1107/CGxSU_Semester_1) |
-| [**Assignment-1**](https://github.com/jontypatel1107/Assignment-1) | 🔹 Assignments repo | [![Stars](https://img.shields.io/github/stars/jontypatel1107/Assignment-1?style=flat-square&color=38BDF8&labelColor=0f172a)](https://github.com/jontypatel1107/Assignment-1) |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jontypatel1107&bg_color=0d1117&color=38BDF8&line=a855f7&point=38BDF8&area=true&hide_border=true" width="95%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jontypatel1107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/jontypatel1107">
-  <img src="https://img.shields.io/badge/GitHub-jontypatel1107-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/jontypatel1107/">
-  <img src="https://img.shields.io/badge/LeetCode-jontypatel1107-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0f172a" />
-</a>
-&nbsp;
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-**⭐ Drop a star if you like my work — it means a lot!**
-
-</div>
+```bash
+┌──────────────────────────────────────────────────────────────────┐
+│  ██████╗ ███████╗██╗   ██╗    ██████╗ ██████╗  ██████╗ ███████╗ │
+│  ██╔══██╗██╔════╝██║   ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝ │
+│  ██║  ██║█████╗  ██║   ██║    ██████╔╝██████╔╝██║   ██║███████╗ │
+│  ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██╔═══╝ ██╔══██╗██║   ██║╚════██║ │
+│  ██████╔╝███████╗ ╚████╔╝     ██║     ██║  ██║╚██████╔╝███████║ │
+│  ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ │
+│                                                                  │
+│  > STATUS:     ONLINE ✅                                         │
+│  > ROLE:       Full Stack Developer                              │
+│  > STACK:      TypeScript • Rust • Go • C++                      │
+│  > MISSION:    Turning caffeine into scalable systems ☕⚡       │
+│  > CURRENT:    Building something awesome... 🚀                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-> **Quick reminder:** Replace `your-email@gmail.com` in the Gmail badge with your actual email. Just copy everything above and paste it directly into your GitHub profile `README.md` file!
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+---
+
+## `> LOADING_SKILLS...` 🧠
+
+<div align="center">
+
+### ⚡ Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### ⚙️ Backend & Systems
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## `> SYSTEM_STATS.sh` 📊
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&icon_color=ff00ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ffcc&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0d0d0d&ring=00ffcc&fire=ff00ff&currStreakLabel=00ffcc" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d0d0d&color=00ffcc&line=ff00ff&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+## `> ACTIVE_PROCESSES.log` 🔥
+
+<div align="center">
+
+```python
+class Developer:
+    def __init__(self):
+        self.name       = "Your Name"
+        self.role       = "Full Stack Developer"
+        self.languages  = ["TypeScript", "JavaScript", "Rust", "Go", "C++"]
+        self.interests  = ["System Design", "WebAssembly", "OSS", "Performance Engineering"]
+        self.currently  = "🔭 Building something that doesn't exist yet"
+        self.learning   = "🌱 Rust internals + distributed systems"
+        self.ask_me     = "💬 Anything about web, systems, or coffee ☕"
+
+    def greet(self):
+        return "> Hello, World! Let's build the future together 🌐"
+
+me = Developer()
+print(me.greet())
+```
+
+</div>
+
+---
+
+## `> CONNECT.cfg` 🌐
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=firefox&logoColor=black)](https://yourwebsite.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername)
+[![Email](https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+## `> PROFILE_VIEWS.count` 👁️
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?color=ff00ff&style=for-the-badge&logo=github&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/yourusername?color=00ffcc&style=for-the-badge&logo=github&label=TOTAL+STARS)
+
+</div>
+
+---
+
+## `> QUOTE_OF_THE_DAY.txt` 💭
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffcc,100:0d0d0d&height=120&section=footer&animation=twinkling" width="100%"/>
+
+```
+> "Any sufficiently advanced technology is indistinguishable from magic." — Clarke's Third Law
+> [SYSTEM SHUTDOWN]... just kidding. The terminal never sleeps. 💀
+```
+
+</div>
