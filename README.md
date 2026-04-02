@@ -25,20 +25,14 @@
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" />
 
-### 🙋‍♂️ About Me
+### 🙋‍♂️ About Me  
 
-```javascript
-const jonty = {
-  education  : "Computer Engineering Student",
-  interests  : ["Web Dev", "Backend Dev", "DSA"],
-  currently  : ["React", "Node.js", "MongoDB"],
-  passionate : "Building Real-World Projects",
-  openTo     : ["Collaborations", "Internships"],
-  funFact    : "I debug with console.log 😄"
-};
-```
-
-<br clear="right"/>
+✨ Computer Engineering student passionate about **Full Stack Development**  
+💻 Love building **real-world web applications** using React, Node.js & MongoDB  
+🧠 Strong interest in **Data Structures, Algorithms, and problem solving**  
+🚀 Currently improving my skills in **backend architecture & scalable systems**  
+🤝 Open to **collaborations, internships, and exciting project opportunities**  
+⚡ Fun fact: I can spend hours debugging a missing semicolon 😄
 
 ---
 
