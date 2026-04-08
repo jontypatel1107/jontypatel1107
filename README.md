@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jonty%20Patel&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=a5b4fc&animation=fadeIn" />
+<!-- Header using shields.io (highly reliable) -->
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  Hi, I'm Jonty Patel
+</h1>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=🚀+Building+Real+Projects+Every+Day;⚛️+React+%7C+Node.js+%7C+MongoDB;🔥+Turning+Ideas+Into+Code;🌱+Learning+%26+Growing+Constantly" alt="Typing SVG" />
+<h3>Computer Engineering Student | Full Stack Developer</h3>
 
-<br/>
+<!-- Typing SVG — demolab is stable, keeping this -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=🚀+Building+Real+Projects+Every+Day;⚛️+React+%7C+Node.js+%7C+MongoDB;🔥+Turning+Ideas+Into+Code;🌱+Learning+%26+Growing+Constantly" alt="Typing SVG" />
+
+<br/><br/>
 
 <!-- Badges Row -->
 <a href="https://github.com/jontypatel1107">
@@ -23,7 +28,7 @@
 
 ---
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ### 🙋‍♂️ About Me  
 
@@ -133,12 +138,14 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
 **⭐ Drop a star if you like my work — it means a lot!**
+
+<br/>
+
+![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Right.svg)
 
 </div>
